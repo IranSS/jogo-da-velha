@@ -1,0 +1,10 @@
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\bin\Release\Jogo-da-velha.exe.config
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\bin\Release\Jogo-da-velha.exe
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\bin\Release\Jogo-da-velha.pdb
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\obj\Release\Jogo-da-velha.csproj.AssemblyReference.cache
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\obj\Release\Jogo_da_velha.Form1.resources
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\obj\Release\Jogo_da_velha.Properties.Resources.resources
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\obj\Release\Jogo-da-velha.csproj.GenerateResource.cache
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\obj\Release\Jogo-da-velha.csproj.CoreCompileInputs.cache
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\obj\Release\Jogo-da-velha.exe
+D:\Workspace\vs-workspace\jogo-da-velha\Jogo-da-velha\Jogo-da-velha\obj\Release\Jogo-da-velha.pdb
