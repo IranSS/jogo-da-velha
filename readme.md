@@ -24,7 +24,7 @@ O **Jogo da Velha** é um clássico jogo de dois jogadores onde o objetivo é al
 ### 🗂️ **Localizar o Executável:**
 Após a compilação, vá até a pasta do seu projeto, onde o executável será gerado:
 
-- O arquivo **Jogo da Velha.exe** está localizado na página inicial e também dentro da pasta **bin\Release**, dependendo da configuração do seu projeto. O caminho típico seria:
+- O arquivo **Jogo da Velha.exe** está localizado na página inicial e também dentro da pasta **bin\Release**
 
 ### 🚀 **Abrir o Executável:**
 1. Navegue até a pasta onde está o **Jogo da Velha.exe**.
